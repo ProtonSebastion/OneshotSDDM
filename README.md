@@ -7,10 +7,20 @@
 
 # Oneshot SDDM
 
-I Suppose this is the last Oneshot Themed Project
+A Oneshot Themed SDDM
 
 Made By ProtonSebastian
 
 # Credits
 
 [Darkkal44](https://github.com/darkkal44/qylock) : Layout
+
+# 🖼️ Changing The Background
+
+Edit `Components/Background.qml` and change the `source` line to point to your file:
+
+```qml
+source: Qt.resolvedUrl("../Backgrounds/YourBackground.mp4")
+```
+
+Drop your MP4 or GIF into the `Backgrounds/` folder and update the filename accordingly.

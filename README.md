@@ -12,4 +12,4 @@ Made By ProtonSebastian
 
 # Credits
 
-[Darkkal44](https://github.com/darkkal44/qylock) Layout
+[Darkkal44](https://github.com/darkkal44/qylock) : Layout
